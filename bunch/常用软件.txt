@@ -1,0 +1,2 @@
+vs,pycharm,typora,git bash,cmder，xshell，Tencent cloud，花生壳
+node.js,git，edge，ue4，telegram
