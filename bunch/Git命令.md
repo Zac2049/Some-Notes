@@ -61,6 +61,8 @@ $ git log --pretty=oneline
 $ git reflog
 ```
 
+查找hashtag
+
 ### 版本回退
 
 ```bash
