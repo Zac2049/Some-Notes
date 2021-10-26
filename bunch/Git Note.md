@@ -1,6 +1,5 @@
 # Git命令
 
-![image-20210616164324263](C:\Users\zacbi\AppData\Roaming\Typora\typora-user-images\image-20210616164324263.png)
 
 * git status
 * git add .
